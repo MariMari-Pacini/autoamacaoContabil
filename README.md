@@ -18,10 +18,10 @@ Execute o script Python. O script irá ler a planilha e registrar cada produto n
 # Estrutura do Código
 ## O script Python é dividido em várias funções para lidar com diferentes partes do processo de registro de produtos:
 
-> send_keys(element_id, value): Encontra um elemento pelo seu ID e envia valores para ele.
-> select_size(tamanho): Lida com a seleção do tamanho do produto.
-> handle_confirmation(): Lida com os alertas de confirmação.
-> register_product(linha): Lida com todo o processo de registro de um produto.
+- send_keys(element_id, value): Encontra um elemento pelo seu ID e envia valores para ele.
+- select_size(tamanho): Lida com a seleção do tamanho do produto.
+- handle_confirmation(): Lida com os alertas de confirmação.
+- register_product(linha): Lida com todo o processo de registro de um produto.
 
 # Contribuições
-Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+> Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
